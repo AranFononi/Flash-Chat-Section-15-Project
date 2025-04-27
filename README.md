@@ -35,4 +35,3 @@ The app includes user login, registration, and a welcome screen. It supports mes
 ## Contact
 For more information, feel free to reach out:  
 - **Email**: [aranfononi@gmail.com](mailto:aranfononi@gmail.com)  
-- **LinkedIn**: [Aran Fononi](https://www.linkedin.com/in/aran-fononi-18182b265)
